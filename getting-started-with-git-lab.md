@@ -4,11 +4,19 @@ In this lab, we'll be going through some basic tasks you'll need to do as you ma
 ## Creating your repository and editing files
 **What did you click on to create a new repository in the web interface of Github (i.e., on Github.com)?**
 
+You click on the green "New" button on the right hand side of the screen, under the repository tab.
+
 **What is the difference between a private and a public repository?**
+
+A private repository are only accessible to you or anyone you choose to share it with, whereas public repositories are avaliable to anyone on the internet. 
 
 **Once your repository has been made and has at least one file, what button do you need to click on the web interface in order to create a new file in your repository?**
 
+You would click the "Add file" button.
+
 **Describe the steps you took to clone your repository on Github Desktop**
+
+
 
 **What is the title of GitHub documentation?**
 
